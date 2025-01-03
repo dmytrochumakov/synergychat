@@ -17,5 +17,5 @@ spec:
         - image: bootdotdev/synergychat-testcpu:latest          
           resources:
             limits:
-              cpu: 50m
+              cpu: 10m
           name: synergychat-testcpu
